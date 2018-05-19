@@ -1,4 +1,8 @@
 
-public class stuff {
-
+public class stuff 
+{
+	public void main()
+	{
+		System.out.println("Hello world!");
+	}
 }
